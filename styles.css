@@ -126,8 +126,8 @@ body{
 
 .rodape{
     text-align: center;
-    padding: 4em;
-    margin: 0 14em;
+    padding: 1em;
+    margin: 0 6em;
 }
 
 .rodape__logo{
@@ -143,7 +143,7 @@ body{
 .lista__link a{
     text-decoration: none;
     color: #FFFFFF;
-    font-size: 16px;
+    font-size: 14px;
     transition: 400ms;
 }
 
